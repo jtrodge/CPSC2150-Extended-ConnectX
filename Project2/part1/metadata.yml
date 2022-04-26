@@ -1,0 +1,12 @@
+---
+:id: 114589114
+:submitters:
+- :name: Jason Tyrek Rodgers
+  :email: jtrodge@clemson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-03-02 16:10:11.944184000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-03-02 08:10:11.944184000 Z
+:status: processed
+:score: 21.5
